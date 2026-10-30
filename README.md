@@ -37,19 +37,19 @@
 </div>
 
 
-### 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=emil_neshkov&theme=dark&hide_border=false)
+### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emil_neshkov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=emilneshkov&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilneshkov&theme=dark&hide_border=false&layout=compact)
 
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emil_neshkov/emil_neshkov/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emil_neshkov/emil_neshkov/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emil_neshkov/emil_neshkov/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilneshkov/emilneshkov/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilneshkov/emilneshkov/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/emilneshkov/emilneshkov/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
