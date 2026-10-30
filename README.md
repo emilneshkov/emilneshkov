@@ -6,11 +6,12 @@
 
 <h2 align="center">Hey there! 👋 I'm Emil</h2>
 
-<h2 align="center">
-  Software Engineering student at Sofia University,
-  passionate about building software and games.
-</h2>
+<h3 align="center">
+  🎓 Software Engineering student at Sofia University,
+  passionate about 💻 building software and 🎮 games.
+</h3>
 
+<br>
 
 <h3 align="center">🛠️ Languages & Technologies</h3>
 
@@ -36,21 +37,43 @@
   <img src="https://skillicons.dev/icons?i=unity" height="60" alt="Unity" />
 </div>
 
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/emil-neshkov" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://discordapp.com/users/337233731507060737" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
+  </a>
+  <a href="https://stackoverflow.com/users/22175002" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=F58025&logoColor=white&style=for-the-badge" height="25" alt="Stack Overflow" />
+  </a>
+</div>
 
 
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=emilneshkov&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilneshkov&theme=dark&hide_border=false&layout=compact)
 
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=emilneshkov&theme=dark&hide_border=false&layout=compact&langs_count=8)
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilneshkov/emilneshkov/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilneshkov/emilneshkov/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/emilneshkov/emilneshkov/output/pacman-contribution-graph.svg">
-</picture>
+
+<h3 align="center">🕹️ My Contribution Graph</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/emilneshkov/emilneshkov/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/emilneshkov/emilneshkov/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/emilneshkov/emilneshkov/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 
 ###
 
